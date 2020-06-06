@@ -1,0 +1,10 @@
+diff --git a/1.py b/1.py
+index de18f93..9c05c27 100644
+--- a/1.py
++++ b/1.py
+@@ -16,5 +16,3 @@ cv2.waitKey(0)
+ #img = Image.open("dog.jpg")#Image.open es parte de la biblioteca de imagenes PIL de python
+ #img_t = transforms(img)
+ #img_gpu = torch.tensor(img_t, device = 'cpu')
+-
+-
